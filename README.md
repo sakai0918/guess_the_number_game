@@ -3,8 +3,8 @@
 試行回数は4回までです。
 
 # 遊び方
-コマンドラインにてソースのあるディレクトリに移動した状態で、
-`python3 guessTheNumberGame.py`
+コマンドラインにてソースのあるディレクトリに移動した状態で、  
+`python3 guessTheNumberGame.py`. 
 を入力すると実行できます。
 
 ```guessTheNumberGame.py
