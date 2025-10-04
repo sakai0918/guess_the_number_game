@@ -4,7 +4,7 @@
 
 # 遊び方
 コマンドラインにてソースのあるディレクトリに移動した状態で、  
-`python3 guessTheNumberGame.py`. 
+`python3 guessTheNumberGame.py`  
 を入力すると実行できます。
 
 ```guessTheNumberGame.py
